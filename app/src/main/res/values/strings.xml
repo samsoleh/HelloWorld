@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="definisiBMI">"BMI atau Body Mass Index merupakan cara untuk menentukan apakah berat badanmu ideal atau tidak. cobalah sekarang. "</string>
 </resources>
